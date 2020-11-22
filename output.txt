@@ -29,7 +29,7 @@ t=00004189ms: Request headers for "http://perf01.build.prg-krl.atc:8023/" (331 b
 		  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
 		  
 	[MsgId: MMSG0]
-t=00004195ms: Response headers for "http://perf01.build.prg-krl.atc:8023/" (671 byte(s)) (internal ID=557)    [MsgId: MMSG-204697]	[MsgId: MMSG-204697]
+t=00004196ms: Response headers for "http://perf01.build.prg-krl.atc:8023/" (671 byte(s)) (internal ID=557)    [MsgId: MMSG-204697]	[MsgId: MMSG-204697]
 		  HTTP/1.1 200
 		  X-Correlation-Id: ed3579
 		  Content-Security-Policy: default-src 'self'; connect-src 'self' http://perf01.build.prg-krl.atc:8021 ws://perf01.build.prg-krl.atc:8021 http://perf01.build.prg-krl.atc:8080 http://perf01.build.prg-krl.atc:9000; style-src 'unsafe-inline'; script-src 'self' 'sha256-u4r8fi+DLIUKcx9UIljWViRkc2H53+tYpaNPb+FGfkQ='; img-src 'self' data:; base-uri 'self'; font-src 'self'; frame-src 'self'; manifest-src 'self'; worker-src 'self'; object-src 'self'
